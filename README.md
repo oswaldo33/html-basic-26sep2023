@@ -14,50 +14,34 @@ This is screen it is like a view of my main HTML investigation.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://oswaldo33.github.io/html-basic-26sep2023/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**You need to clown this repository your local machine the command `git clone`.**
+**Open the `index.html` file located in the root of this repository and finally enjoy!:smile:**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+**Browser**
 
-### Install
+## Author
 
-### Usage
+👤 **Oswaldo Jose Escalona Correa**
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Arístides José Molina Pérez**
-
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@oswaldo33](https://github.com/oswaldo33)
+- Twitter: [@oswaldoescalon3](https://twitter.com/oswaldoescalon3)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oswaldo-escalona-a0ba72245/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/oswaldo33/html-basic-26sep2023/issues).
 
 ## Show your support
 
@@ -65,9 +49,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Google
 
 ## 📝 License
 
