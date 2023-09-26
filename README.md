@@ -1,18 +1,16 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# HTML Basics 26sep23
 
-> One paragraph statement about the project.
+>This project was created to study all basics statements in HTML.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This is screen it is like a view of my main HTML investigation.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
 
 ## Live Demo
 
